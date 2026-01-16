@@ -73,7 +73,7 @@ GovR is a comprehensive Discord bot solution built for server administrators and
 ## 🚀 Getting Started
 
 ### Add GovR to Your Server
-1. Visit **Link Soon** (or your bot website)
+1. Visit **Link Soon**
 2. Click the **"Invite Bot"** button
 3. Select your server and grant permissions
 4. Grant necessary administrator permissions
@@ -237,7 +237,7 @@ Check out `/changelog` in Discord for the latest updates and features!
 ---
 
 **Ready to elevate your Discord server?**
-### [👉 Soon)
+### [👉 Soon]
 
 ---
 
